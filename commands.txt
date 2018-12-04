@@ -1,0 +1,38 @@
+geyfirst use
+*git init
+*git add -A
+*git config user.name [ProfAhmed]
+*git config user.email [ahmed.pro94@yahoo.com]
+*git commit -m ""
+the last two command from githab as you seen 
+___________________________________________
+else
+*git init
+*git add -A
+*git commit -m "Football"
+the last two commands
+___________________________________________
+edit project 
+*git add .
+*git commit -m "commit name"
+*git push origin master
+____________________________________________
+
+////
+api key gcm :  AIzaSyAgoZouwyW7zZ4u0W-VDaICy6vmumvbHY4 
+
+
+
+cd C:\Program Files\Java\jdk1.8.0_101\bin
+
+Registered SHA-1s:
+2D:5A:F7:62:25:E2:27:2F:4D:85:F6:60:CD:9C:74:5E:2C:51:E6:A4
+
+pubnub
+sub-c-6af1eb32-9c05-11e7-9459-a6ab0a2df6ac
+pub-c-61f33b6f-f19e-4732-9e86-98c4fb64ec79
+
+
+api key google map
+AIzaSyDKUFQbklZoYtpzjMGsN_FQz_Vvm0oCLsU
+
